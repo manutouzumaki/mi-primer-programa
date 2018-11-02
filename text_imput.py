@@ -31,6 +31,8 @@ else:
                     print("gano")
                 else:
                     print("perdio")
+                    print("game over")
+
 
 
 
