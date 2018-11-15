@@ -4,6 +4,7 @@ pokemon_elegido = input("contra que pokemon quieres combatir? (squirtel / charma
 vida_pikachu = 100
 vida_enemigo = 0
 ataque_enemigo = 0
+nombre_pokemon = pokemon_elegido
 #se declaran los pokemon
 if pokemon_elegido == "squirtel":
     vida_enemigo = 90

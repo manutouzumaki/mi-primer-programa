@@ -1,3 +1,4 @@
+"programa para adivinar un numero"
 
 number_to_guess = 2
 
